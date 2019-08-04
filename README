@@ -1,0 +1,6 @@
+{
+    "/" : "get all vendor", (.get)
+    "/add-vendor" : "create post", (.post)
+    "/vendor/:vendorId" : "get/delete vendor", (.delete) - for delete, (.get) - for get vendor
+
+}
